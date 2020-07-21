@@ -16,15 +16,15 @@
   <img align="left" alt="Vu's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
+<img align="right" alt="GIF" width="400px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino_with_hat.gif" />
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
--  **Work :** Web development backend to frontend :zap: | Open-Source :fire:	
+-  **Work :** Web development backend to frontend :zap:
 -  **Graduate :** A Computer Engineering graduated. 
--  **Techs :** Ruby, Javascript, Css, HTML, Linux
+-  **Techs :** <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />  <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />  <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />  <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
 -  **Fact :** Life is short, don't sleep so long :heart: 
 -  **Organization :** Dreamer
 
 ####
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true)
