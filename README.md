@@ -18,7 +18,12 @@
 <br />
 <img align="right" alt="GIF" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
-### I am Vũ (call me Rian), I'm a Fullstack developer from Vietnam 🇻🇳
+### About me
 - Web developer backend to frontedn.
 - A Computer Engineering graduate. 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+
+##
+
+![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_icon=true)
