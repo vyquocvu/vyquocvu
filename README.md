@@ -1,15 +1,24 @@
-### Hi, I'm Vũ (call me Rian). I am a Fullstack web developer from Vietnam.
+## Hi, I am Vũ (call me Rian), I am a Fullstack developer from Vietnam 🇻🇳</h2>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/vyquocvu)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vyquocvu/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vyquocvu@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:vyquocvu@hotmail.com)
+<a href="https://twitter.com/vyquocvu">
+  <img align="left" alt="Vu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vyquocvu/">
+  <img align="left" alt="Vu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/vyquocvu">
+  <img align="left" alt="Vu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/vyquocvu">
+  <img align="left" alt="Vu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="mailto:vyquocvu@gmail.com">
+  <img align="left" alt="Vu's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
-
-![Dino](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
-
-- 🔭 I’m currently working on my way
-
-![Vy Quốc Vũ](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_border=true&hide_title=true)
-
-
+### I am Vũ (call me Rian), I'm a Fullstack developer from Vietnam 🇻🇳
+- Web developer backend to frontedn.
+- A Computer Engineering graduate. 
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
