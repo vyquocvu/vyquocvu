@@ -19,12 +19,12 @@
 <img align="right" alt="GIF" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
-- Web developer backend to frontend :zap: | Open-Source :fire:	
-- A Computer Engineering graduated. 
+-  **Work :** Web development backend to frontend :zap: | Open-Source :fire:	
+-  **Graduate :** A Computer Engineering graduated. 
 -  **Techs :** Ruby, Javascript, Css, HTML, Linux
 -  **Fact :** Life is short, don't sleep so long :heart: 
 -  **Organization :** Dreamer
 
-##
+####
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_border=true)
