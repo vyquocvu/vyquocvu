@@ -3,7 +3,7 @@
 <a href="https://twitter.com/vyquocvu">
   <img align="left" alt="Vu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vyquocvu/">
+<a href="https://www.linkedin.com/in/vyquocvu">
   <img align="left" alt="Vu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/vyquocvu">
@@ -20,11 +20,11 @@
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
 -  **Work :** Web development backend to frontend :zap:
--  **Graduate :** A Computer Engineering graduated. 
--  **Techs :** <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
--  **Fact :** Life is short, don't sleep so long :heart: 
+-  **Graduate :** A Computer Engineering. 
+-  **Techs :** <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />  <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> 
+-  **Fact :** Life is short, don't sleep so long :rocket: 
 -  **Organization :** Dreamer
 
 ####
 
-<img alt="start" width="400px" src="https://github-readme-stats.vercel.app/api?username=vyquocvu&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true" />
+<img alt="start" width="400px" src="https://github-readme-stats.vercel.app/api?username=vyquocvu&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
