@@ -22,7 +22,7 @@
 -  **Work :** Web development backend to frontend :zap:
 -  **Graduate :** A Computer Engineering. 
 -  **Techs :** <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />   <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />  <img alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" /> 
--  **Fact :** Life is short, don't sleep so long :rocket: 
+-  **Fact :** Life is short, don't sleep so long :sunrise: 
 -  **Organization :** Dreamer
 
 ####
