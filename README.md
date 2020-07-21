@@ -27,4 +27,4 @@
 
 ####
 
-<img alt="start" width="400px" src="https://github-readme-stats.vercel.app/api?username=vyquocvu&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
+<img alt="stat" src="https://github-readme-stats.vercel.app/api?username=vyquocvu&hide=%5B%22contribs%22,%22issues%22%5D&hide_title=true&show_icons=true&hide_border=true" />
