@@ -1,4 +1,4 @@
-## Hi, I am Vũ (call me Rian), I am a Fullstack developer from Vietnam 🇻🇳</h2>
+## Hi, I am Vũ (call me Rian)
 
 <a href="https://twitter.com/vyquocvu">
   <img align="left" alt="Vu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,12 +18,13 @@
 <br />
 <img align="right" alt="GIF" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
-### About me
-- Web developer backend to frontedn.
-- A Computer Engineering graduate. 
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
+### I am a Fullstack developer from Vietnam 🇻🇳
+- Web developer backend to frontend :zap: | Open-Source :fire:	
+- A Computer Engineering graduated. 
+-  **Techs :** Ruby, Javascript, Css, HTML, Linux
+-  **Fact :** Life is short, don't sleep so long :heart: 
+-  **Organization :** Dreamer
 
 ##
 
-![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_icon=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=vyquocvu&show_icons=true&hide_border=true)
