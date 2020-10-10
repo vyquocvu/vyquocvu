@@ -1,4 +1,4 @@
-## Hi, I am Vũ (call me Rian)
+## Hi, I am Vũ (call me Ryan)
 
 <a href="https://twitter.com/vyquocvu">
   <img align="left" alt="Vu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
