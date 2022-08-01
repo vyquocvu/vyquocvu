@@ -19,7 +19,7 @@
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
 -  **Work :** Web development backend to frontend :zap:
--  **Graduate :** A Computer Science. 
+-  **Graduate :** Computer Science. 
 -  **Techs :** Ruby, JS, HTML5, CSS, REACT, VUE
 -  **Fact :** Life is short, don't sleep so long :sunrise: 
 
