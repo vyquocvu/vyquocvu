@@ -18,10 +18,10 @@
 <br />
 
 ### I am a Fullstack developer from Vietnam 🇻🇳
--  **Work :** Web development backend to frontend :zap:
--  **Graduate :** Bachelor of Computer Science. 
--  **Techs :** Ruby, MongoDB, SQL, JS, HTML5, CSS, REACT, VUE
--  **Fact :** Life is short, don't sleep so long :sunrise: 
+-  **Work:** Web development backend to frontend :zap:
+-  **Graduate:** Bachelor of Computer Science. 
+-  **Techs:** Ruby, MongoDB, SQL, JS, HTML5, CSS, REACT, VUE
+-  **Fact:** Life is short, don't sleep so long :sunrise: 
 
 ####
 
