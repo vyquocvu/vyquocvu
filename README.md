@@ -17,7 +17,7 @@
 </a>
 <br />
 
-### I am a Fullstack developer from Vietnam 🇻🇳
+### I am a Fullstack developer
 -  **Work:** Web development backend to frontend :zap:
 -  **Graduate:** Bachelor of Computer Science. 
 -  **Techs:** Ruby, MongoDB, SQL, JS, HTML5, CSS, REACT, VUE
