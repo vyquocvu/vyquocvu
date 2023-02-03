@@ -1,0 +1,1 @@
+mình đang xài 2 freehos cài django,nodejs,vvvv ,host render mình mối upload django được,còn những ngôn ngữ chưa thử xong,còn host fly.io mình đang up bằng cmd máy mà nó bảo is not recognize gì đó ,có thể upload web lên github rồi kết nối nó với fly.io như heroku để cài web không,và host fly.io làm sao để tạo trang admin đăng nhập được mà không bị lỗi,
