@@ -18,7 +18,7 @@
 <br />
 
 ### I am a Fullstack developer
--  **Work:** Web development backend to frontend :zap:
+-  **Work:** backend to frontend, database to css :zap:
 -  **Graduate:** Bachelor of Enginering in Computer Science. 
--  **Techs:** Nodejs, Ruby, MongoDB, *-SQL, JS, HTML5, CSS, REACT [Nextjs, Tanstack]
+-  **Techs:** Nodejs, Ruby, MongoDB, *SQL, JS, HTML5, CSS, REACT [Nextjs, Tanstack]
 ####
